@@ -1,3 +1,5 @@
+//This problem is available for practice on leetcode
+//This problem uses the 2 pointers approach
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& vect, int k) {
